@@ -29,7 +29,7 @@ The programs are written in clean, readable Java, ideal for learners, job aspira
 ⚫ Preparing for coding interviews, university exams, or technical assessments<br>
 ⚫ Quick revision of essential algorithms and concepts<br>
 
-📌 Highlights<br>
+## 📌 Highlights<br>
 ⚫ 🧠 Focused on problem-solving<br>
 ⚫ 🧼 Clean, beginner-friendly code<br>
 ⚫ 📘 Commented where necessary for clarity<br>
